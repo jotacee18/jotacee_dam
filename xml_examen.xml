@@ -1,1 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <image>
+      <title>Mi propio xml para el examen</title>
+      <link>https://
+    <item>
+      <title>5.0 - Homenaje a Mario Tascón - 03/10/23</title>
+      <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
+      <description>validando un xml</description>
+      <enclosure url="https://ztnr.rtve.es/ztnr/6980629.mp3" length="23794897" type="audio/mpeg"></enclosure>
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/5.0</category>
+      <category>Radio/Cadenas/Radio 5</category>
+      <pubDate>Tue, 03 Oct 2023 09:12:40 GMT</pubDate>
+      <guid>https://www.rtve.es/a/6980629/</guid>
