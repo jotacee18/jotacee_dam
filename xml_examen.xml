@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <image>
-      <title>Mi propio xml para el examen</title>
+      <title>5.0</title>
+      <link>https://www.rtve.es/play/audios/50/</link>
+    </image>
+    <itunes:owner>
+    <itunes:email>movil.irtve@rtve.es</itunes:email>
+    <itunes:name>RTVE</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://img2.rtve.es/imagenes/50/1624028284337.jpg"></itunes:image>
+    <itunes:category text="Science"></itunes:category>
+    <itunes:author>Radio 5</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords></itunes:keywords>
+    <itunes:summary>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</itunes:summary>
     <item>
       <title>5.0 - Homenaje a Mario Tascón - 03/10/23</title>
       <link>https://www.rtve.es/play/audios/50/50-homenaje-mario-tascon/6980629/</link>
